@@ -1,2 +1,1 @@
-# Leetcode
-# Leetcode
+# There are solved tasks from Leetcode
